@@ -1,2 +1,2 @@
-# Lab-5
-Level Generator for Computer as a Medium 
+# JSPlatformer
+JS Platformer for DIG 3480C
